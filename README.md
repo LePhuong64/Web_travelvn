@@ -32,4 +32,4 @@ Nguyễn Ngọc Thảo Ngân - Phát triển App
 
 Lê Thị Phượng - Phát triển Web
 
-Nguyễn Trần Khánh Ngọc - Phát triển Web
+Phan Tuấn Anh - Phát triển Web
